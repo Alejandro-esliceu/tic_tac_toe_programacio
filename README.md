@@ -1,4 +1,4 @@
-Tic Tac Toe - Projecte de programació
+# Tic Tac Toe - Projecte de programació
 
 Aquest repositori conté una versió senzilla del joc Tic Tac Toe (Tres en ratlla) creada com a projecte de programació.
 
