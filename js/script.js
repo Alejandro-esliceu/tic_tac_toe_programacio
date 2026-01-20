@@ -58,7 +58,6 @@ function checkWinner() {
 }
 
 // Initialize the game
-createBoard();
 
 function restartGame() {
     clicked = [];
