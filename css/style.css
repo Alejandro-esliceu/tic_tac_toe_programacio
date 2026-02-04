@@ -95,3 +95,8 @@ table td span {
     margin-top: 20px;
     font-weight: bold;
 }
+
+/* Win highlight */
+.win-highlight {
+    background-color: #ffeb3b !important;
+}
