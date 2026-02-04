@@ -17,12 +17,12 @@ body {
     padding: 25px;
 }
 
-/* Title */
+/* Títol */
 h1 {
     margin-bottom: 25px;
 }
 
-/* Marker */
+/* Marcador */
 .marker {
     display: flex;
     gap: 30px;
@@ -48,7 +48,7 @@ h1 {
     line-height: 50px;
 }
 
-/* Board */
+/* Taula */
 table {
     border-collapse: collapse;
     margin-bottom: 15px;
@@ -62,7 +62,7 @@ table td {
     text-align: center;
 }
 
-/* X / O circles */
+/* X / O */
 table td span {
     display: flex;
     justify-content: center;
@@ -83,20 +83,20 @@ table td span {
     background-color: #f6a400;
 }
 
-/* Restart */
+/* Botó restart */
 #restart {
     padding: 4px 10px;
     font-size: 12px;
     cursor: pointer;
 }
 
-/* Result */
+/* Resultats */
 #result {
     margin-top: 20px;
     font-weight: bold;
 }
 
-/* Win highlight */
+/* Victoria */
 .win-highlight {
     background-color: #ffeb3b !important;
 }
